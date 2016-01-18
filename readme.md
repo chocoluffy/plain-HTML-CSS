@@ -20,6 +20,8 @@ go to the container, and set:
 }
 ```
 
+## table structure
+
 - [use div to represent html table](http://www.html-cleaner.com/features/replace-html-table-tags-with-divs/)
 
 
