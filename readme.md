@@ -19,11 +19,17 @@ go to the container, and set:
 	text-align: center;
 }
 ```
+- [align item by positioning absolute](http://www.w3schools.com/css/css_align.asp)
 
 ## table structure
 
 - [use div to represent html table](http://www.html-cleaner.com/features/replace-html-table-tags-with-divs/)
 
+## fancy decoration 
+
+- [The CSS for the glass and transparent menu bar](http://creative-punch.net/2014/02/make-transparent-glass-menu-bar-css3/)
+
+- [use media query to adapt to mobile view](http://www.w3schools.com/css/tryit.asp?filename=tryresponsive_mediaquery)
 
 
 
